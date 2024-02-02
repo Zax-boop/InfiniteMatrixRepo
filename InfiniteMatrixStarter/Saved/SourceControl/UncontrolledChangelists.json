@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/sorry_buddy.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/T_Restart.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/test.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/bar_fill_template.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/bar_template.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Estus.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/WBP_Restart.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/estus.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPickup.uasset",
+				"/Users/rohanarya/Documents/CS_415/UE_5.2/Engine/Content/BasicShapes/Sphere.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Enemy.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Score.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Health_Pickup.uasset",
+				"/Users/rohanarya/Documents/CS_415/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/dark_restart.uasset",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/Untitled.umap",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/confused.umap",
+				"/Users/rohanarya/Documents/Unreal Projects/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/MoreConfused.umap"
+			]
+		}
+	]
+}
